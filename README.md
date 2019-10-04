@@ -7,7 +7,7 @@ In that spirit, the Data Science for Conservation Project applies data science t
 **Projects**
 
 - [Land and Water Conservation Fund (LWCF)](https://github.com/HKuz/DataScienceForConservation_LWCF)
-- [Overview of Main and Direct Sources of Conservation Funding](https://github.com/HKuz/DataScienceforConservation/blob/master/ConservationFunding/ConservationFundingSources.ipynb)
+- [Overview of the Sources of Conservation Funding in the United States](https://github.com/Data-Science-for-Conservation/ConservationFunding)
 - [Hunter Participation Growth & Decline by License Sales](https://github.com/HKuz/DataScienceforConservation/tree/master/Participation)
 - [Analysis of Public Comments Regarding the EPA's Revised Definition of "Waters of the United States"](https://github.com/HKuz/DataScienceforConservation/tree/master/WaterRevision)
 
