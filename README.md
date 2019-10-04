@@ -14,3 +14,7 @@ In that spirit, the Data Science for Conservation Project applies data science t
 ## License
 
 Original datasets, some of which are saved in a `/Data` folder under their respective project, retain any original license and use policy under which they were released. Sources for datasets are noted in the project README or Jupyter Notebook. All other work in this repository falls under the given software license per repository. Other sources are noted where possible.
+
+## Contributing
+
+If you're interested in contributing to any project, please read the [contributing guidelines](./CONTRIBUTING.md) to get started.
